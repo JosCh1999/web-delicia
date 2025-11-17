@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "chocolate_cake",
+      "description": "A rich chocolate cake on a white plate",
+      "imageUrl": "https://images.unsplash.com/photo-1586985289906-406988974504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaG9jb2xhdGUlMjBjYWtlfGVufDB8fHx8MTc2MzMzNjEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate cake"
+    },
+    {
+      "id": "strawberry_tart",
+      "description": "A fresh strawberry tart with cream",
+      "imageUrl": "https://images.unsplash.com/photo-1503485838016-53579610c389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHJhd2JlcnJ5JTIwdGFydHxlbnwwfHx8fDE3NjM0MDY1MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "strawberry tart"
+    },
+    {
+      "id": "croissant",
+      "description": "A golden buttery croissant on a wooden board",
+      "imageUrl": "https://images.unsplash.com/photo-1597528673850-e27492b0335f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjcm9pc3NhbnQlMjBwYXN0cnl8ZW58MHx8fHwxNzYzMzIzMTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "croissant pastry"
+    },
+    {
+      "id": "cupcake",
+      "description": "A colorful cupcake with sprinkles",
+      "imageUrl": "https://images.unsplash.com/photo-1465254596705-1ef61f93878c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3VwY2FrZSUyMGRlc3NlcnR8ZW58MHx8fHwxNzYzNDA2NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cupcake dessert"
+    },
+    {
+      "id": "macarons",
+      "description": "A box of colorful French macarons",
+      "imageUrl": "https://images.unsplash.com/photo-1709224880492-604a7b15c11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYWNhcm9ucyUyMGNvbG9yZnVsfGVufDB8fHx8MTc2MzM4MzkwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macarons colorful"
+    }
+  ]
+}
