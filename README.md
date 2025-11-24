@@ -1,4 +1,4 @@
-AIzaSyAMm6skVCb46JVDsF4UAcpX42H40ZqAhbM# Firebase Studio
+ Firebase Studio
 
 This is a NextJS starter in Firebase Studio.
 
